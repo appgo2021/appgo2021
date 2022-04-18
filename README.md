@@ -1,25 +1,25 @@
-### Hi there 👋
+### Hi there. 👋
+ 
+- 🌱 I’m currently learning React and Typescript.
+- 👯 I’m looking to collaborate on open source.
+- 🤔 I’m looking for help with networking.
+- 📫 How to reach me: **yadanamhein@gmail.com**
+- ⚡ Fun fact: I am also interested in electronic.
 
-<!--
-**appgo2021/appgo2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/firebase.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appgo2021)](https://github.com/appgo2021/github-readme-stats)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/heroku.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/firebase.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
