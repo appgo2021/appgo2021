@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appgo2021)](https://github.com/appgo2021/github-readme-stats)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/heroku.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/firebase.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/git.svg" />
