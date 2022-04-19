@@ -1,8 +1,9 @@
-### Hello World. 👋
+### Hi! I am Yadana. 👋
  
 - 🌱 I’m currently learning React and Typescript.
 - 👯 I’m looking to collaborate on open source.
-- ⚡ Fun fact: I am also interested in electronic.
+- 📭 How to reach me **yadanamhein@gmail.com**
+- 🌐 Profolio Website : https://appprofolio.herokuapp.com/
 
 ### Languages and Tools:
 
