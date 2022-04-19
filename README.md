@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React and Typescript.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with networking.
-- 📫 How to reach me: **yadanamhein@gmail.com**
 - ⚡ Fun fact: I am also interested in electronic.
 
 
