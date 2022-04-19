@@ -1,10 +1,8 @@
-### Hi there. 👋
+### Hello World. 👋
  
 - 🌱 I’m currently learning React and Typescript.
 - 👯 I’m looking to collaborate on open source.
-- 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: I am also interested in electronic.
-
 
 ### Languages and Tools:
 
